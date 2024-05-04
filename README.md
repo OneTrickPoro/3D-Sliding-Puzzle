@@ -2,7 +2,7 @@
 
 ## What is it?
 An elementary bad written script for a 3D sliding puzzle.  
-Name is not update; dimension are customizable but the graphic results can be awful.  
+Name is not updated; dimensions are customizable but the graphic results could be awful.  
 Anyways, my first puzzle with Pygame.  
 
 For try it, download it and open using Python.
